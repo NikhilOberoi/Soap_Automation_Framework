@@ -1,0 +1,332 @@
+{
+    "status": "success",
+    "code": 201,
+    "data": {
+        "schedule": [
+            {
+                "due_date": "18-07-2014",
+                "interest_days": 16,
+                "repayment_amount": 34478.0,
+                "principal_part": 27902.66,
+                "interest_part": 6575.34,
+                "opening_balance": 1000000.0,
+                "closing_balance": 972097.34
+            },
+            {
+                "due_date": "18-08-2014",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 22093.75,
+                "interest_part": 12384.25,
+                "opening_balance": 972097.34,
+                "closing_balance": 950003.59
+            },
+            {
+                "due_date": "18-09-2014",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 22375.21,
+                "interest_part": 12102.79,
+                "opening_balance": 950003.59,
+                "closing_balance": 927628.38
+            },
+            {
+                "due_date": "18-10-2014",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 23041.49,
+                "interest_part": 11436.51,
+                "opening_balance": 927628.38,
+                "closing_balance": 904586.89
+            },
+            {
+                "due_date": "18-11-2014",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 22953.81,
+                "interest_part": 11524.19,
+                "opening_balance": 904586.89,
+                "closing_balance": 881633.08
+            },
+            {
+                "due_date": "18-12-2014",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 23608.55,
+                "interest_part": 10869.45,
+                "opening_balance": 881633.08,
+                "closing_balance": 858024.53
+            },
+            {
+                "due_date": "18-01-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 23547.0,
+                "interest_part": 10931.0,
+                "opening_balance": 858024.53,
+                "closing_balance": 834477.53
+            },
+            {
+                "due_date": "18-02-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 23846.98,
+                "interest_part": 10631.02,
+                "opening_balance": 834477.53,
+                "closing_balance": 810630.55
+            },
+            {
+                "due_date": "18-03-2015",
+                "interest_days": 28,
+                "repayment_amount": 34478.0,
+                "principal_part": 25150.2,
+                "interest_part": 9327.8,
+                "opening_balance": 810630.55,
+                "closing_balance": 785480.35
+            },
+            {
+                "due_date": "18-04-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 24471.2,
+                "interest_part": 10006.8,
+                "opening_balance": 785480.35,
+                "closing_balance": 761009.15
+            },
+            {
+                "due_date": "18-05-2015",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 25095.7,
+                "interest_part": 9382.3,
+                "opening_balance": 761009.15,
+                "closing_balance": 735913.45
+            },
+            {
+                "due_date": "18-06-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 25102.66,
+                "interest_part": 9375.34,
+                "opening_balance": 735913.45,
+                "closing_balance": 710810.79
+            },
+            {
+                "due_date": "18-07-2015",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 25714.58,
+                "interest_part": 8763.42,
+                "opening_balance": 710810.79,
+                "closing_balance": 685096.21
+            },
+            {
+                "due_date": "18-08-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 25750.06,
+                "interest_part": 8727.94,
+                "opening_balance": 685096.21,
+                "closing_balance": 659346.15
+            },
+            {
+                "due_date": "18-09-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 26078.11,
+                "interest_part": 8399.89,
+                "opening_balance": 659346.15,
+                "closing_balance": 633268.04
+            },
+            {
+                "due_date": "18-10-2015",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 26670.59,
+                "interest_part": 7807.41,
+                "opening_balance": 633268.04,
+                "closing_balance": 606597.45
+            },
+            {
+                "due_date": "18-11-2015",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 26750.11,
+                "interest_part": 7727.89,
+                "opening_balance": 606597.45,
+                "closing_balance": 579847.34
+            },
+            {
+                "due_date": "18-12-2015",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 27329.2,
+                "interest_part": 7148.8,
+                "opening_balance": 579847.34,
+                "closing_balance": 552518.14
+            },
+            {
+                "due_date": "18-01-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 27439.07,
+                "interest_part": 7038.93,
+                "opening_balance": 552518.14,
+                "closing_balance": 525079.07
+            },
+            {
+                "due_date": "18-02-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 27788.64,
+                "interest_part": 6689.36,
+                "opening_balance": 525079.07,
+                "closing_balance": 497290.43
+            },
+            {
+                "due_date": "18-03-2016",
+                "interest_days": 29,
+                "repayment_amount": 34478.0,
+                "principal_part": 28551.39,
+                "interest_part": 5926.61,
+                "opening_balance": 497290.43,
+                "closing_balance": 468739.04
+            },
+            {
+                "due_date": "18-04-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 28506.39,
+                "interest_part": 5971.61,
+                "opening_balance": 468739.04,
+                "closing_balance": 440232.65
+            },
+            {
+                "due_date": "18-05-2016",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 29050.47,
+                "interest_part": 5427.53,
+                "opening_balance": 440232.65,
+                "closing_balance": 411182.18
+            },
+            {
+                "due_date": "18-06-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 29239.65,
+                "interest_part": 5238.35,
+                "opening_balance": 411182.18,
+                "closing_balance": 381942.53
+            },
+            {
+                "due_date": "18-07-2016",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 29769.12,
+                "interest_part": 4708.88,
+                "opening_balance": 381942.53,
+                "closing_balance": 352173.41
+            },
+            {
+                "due_date": "18-08-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 29991.41,
+                "interest_part": 4486.59,
+                "opening_balance": 352173.41,
+                "closing_balance": 322182.0
+            },
+            {
+                "due_date": "18-09-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 30373.49,
+                "interest_part": 4104.51,
+                "opening_balance": 322182.0,
+                "closing_balance": 291808.51
+            },
+            {
+                "due_date": "18-10-2016",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 30880.36,
+                "interest_part": 3597.64,
+                "opening_balance": 291808.51,
+                "closing_balance": 260928.15
+            },
+            {
+                "due_date": "18-11-2016",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 31153.85,
+                "interest_part": 3324.15,
+                "opening_balance": 260928.15,
+                "closing_balance": 229774.3
+            },
+            {
+                "due_date": "18-12-2016",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 31645.17,
+                "interest_part": 2832.83,
+                "opening_balance": 229774.3,
+                "closing_balance": 198129.13
+            },
+            {
+                "due_date": "18-01-2017",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 31953.89,
+                "interest_part": 2524.11,
+                "opening_balance": 198129.13,
+                "closing_balance": 166175.24
+            },
+            {
+                "due_date": "18-02-2017",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 32360.97,
+                "interest_part": 2117.03,
+                "opening_balance": 166175.24,
+                "closing_balance": 133814.27
+            },
+            {
+                "due_date": "18-03-2017",
+                "interest_days": 28,
+                "repayment_amount": 34478.0,
+                "principal_part": 32938.22,
+                "interest_part": 1539.78,
+                "opening_balance": 133814.27,
+                "closing_balance": 100876.05
+            },
+            {
+                "due_date": "18-04-2017",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 33192.87,
+                "interest_part": 1285.13,
+                "opening_balance": 100876.05,
+                "closing_balance": 67683.18
+            },
+            {
+                "due_date": "18-05-2017",
+                "interest_days": 30,
+                "repayment_amount": 34478.0,
+                "principal_part": 33643.55,
+                "interest_part": 834.45,
+                "opening_balance": 67683.18,
+                "closing_balance": 34039.63
+            },
+            {
+                "due_date": "18-06-2017",
+                "interest_days": 31,
+                "repayment_amount": 34478.0,
+                "principal_part": 34039.63,
+                "interest_part": 438.37,
+                "opening_balance": 34039.63,
+                "closing_balance": 0
+            }
+        ]
+    }
+}

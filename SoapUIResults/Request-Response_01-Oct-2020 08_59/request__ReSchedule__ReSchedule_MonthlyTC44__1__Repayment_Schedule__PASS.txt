@@ -1,0 +1,19 @@
+{
+	"interest_rate": 15,
+	"loan_amount": 990000000,
+	"disbursal_date": {
+		"day": "05",
+		"month": "08",
+		"year": "2014"
+	},
+	"emi_date": {
+		"day": "5"
+	},
+	"tenure": 36,
+	"pre_emi": "N",
+	"pre_emi_days_applicable":3,
+	"days_calculation": "365",
+	"interest_only": "N",
+	"frequency": "monthly",
+	"repayment_type": "equated_installment"
+}

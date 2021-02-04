@@ -1,0 +1,25 @@
+  
+<project name="WS-Test"  default="testreport" basedir=".">
+
+<tstamp>
+	<format property="timestamp" pattern = "yyyyMMddHHmmss" />
+</tstamp>
+<target name="soapui">
+	<exec dir="." executable="F:\SoapUI-5.4.0\bin\testrunner.bat">
+		<arg line="-j -M -r -a -f './Soap_UI_Result/Results_${timestamp}/Request_Response' 'F:/Webservices/LMS/API_Automation/LMS-soapui-project.xml' " />
+	</exec>
+</target>
+
+<target name="testreport" depends="soapui">
+	<mkdir dir="./Soap_UI_Result/Results_${timestamp}/HTML_Reports"/>
+	<junitreport todir="./Soap_UI_Result/Results_${timestamp}/Request_Response">
+		<fileset dir="./Soap_UI_Result/Results_${timestamp}/Request_Response">
+			<include name="TEST-*.xml"/>
+		</fileset>
+		<report format="noframes" todir="./Soap_UI_Result/Results_${timestamp}/HTML_Reports" styledir = "F:\apache-ant-1.9.14\etc" />
+	</junitreport>
+	<move file = "./Soap_UI_Result/Results_${timestamp}/HTML_Reports/junit-noframes.html" tofile = "./Soap_UI_Result/Results_${timestamp}/HTML_Reports/soapUIResults-${timestamp}.html" />
+</target>
+	
+	
+</project>

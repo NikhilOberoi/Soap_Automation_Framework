@@ -1,0 +1,332 @@
+{
+    "status": "success",
+    "code": 201,
+    "data": {
+        "schedule": [
+            {
+                "due_date": "28-03-2020",
+                "interest_days": 57,
+                "repayment_amount": 35054.0,
+                "principal_part": 11629.34,
+                "interest_part": 23424.66,
+                "opening_balance": 1000000.0,
+                "closing_balance": 988370.66
+            },
+            {
+                "due_date": "28-04-2020",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 22462.43,
+                "interest_part": 12591.57,
+                "opening_balance": 988370.66,
+                "closing_balance": 965908.23
+            },
+            {
+                "due_date": "28-05-2020",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 23145.54,
+                "interest_part": 11908.46,
+                "opening_balance": 965908.23,
+                "closing_balance": 942762.69
+            },
+            {
+                "due_date": "28-06-2020",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 23043.46,
+                "interest_part": 12010.54,
+                "opening_balance": 942762.69,
+                "closing_balance": 919719.23
+            },
+            {
+                "due_date": "28-07-2020",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 23715.0,
+                "interest_part": 11339.0,
+                "opening_balance": 919719.23,
+                "closing_balance": 896004.23
+            },
+            {
+                "due_date": "28-08-2020",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 23639.15,
+                "interest_part": 11414.85,
+                "opening_balance": 896004.23,
+                "closing_balance": 872365.08
+            },
+            {
+                "due_date": "28-09-2020",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 23940.31,
+                "interest_part": 11113.69,
+                "opening_balance": 872365.08,
+                "closing_balance": 848424.77
+            },
+            {
+                "due_date": "28-10-2020",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 24593.97,
+                "interest_part": 10460.03,
+                "opening_balance": 848424.77,
+                "closing_balance": 823830.8
+            },
+            {
+                "due_date": "28-11-2020",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 24558.62,
+                "interest_part": 10495.38,
+                "opening_balance": 823830.8,
+                "closing_balance": 799272.18
+            },
+            {
+                "due_date": "28-12-2020",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 25199.96,
+                "interest_part": 9854.04,
+                "opening_balance": 799272.18,
+                "closing_balance": 774072.22
+            },
+            {
+                "due_date": "28-01-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 25192.53,
+                "interest_part": 9861.47,
+                "opening_balance": 774072.22,
+                "closing_balance": 748879.69
+            },
+            {
+                "due_date": "28-02-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 25513.48,
+                "interest_part": 9540.52,
+                "opening_balance": 748879.69,
+                "closing_balance": 723366.21
+            },
+            {
+                "due_date": "28-03-2021",
+                "interest_days": 28,
+                "repayment_amount": 35054.0,
+                "principal_part": 26730.33,
+                "interest_part": 8323.67,
+                "opening_balance": 723366.21,
+                "closing_balance": 696635.88
+            },
+            {
+                "due_date": "28-04-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 26179.05,
+                "interest_part": 8874.95,
+                "opening_balance": 696635.88,
+                "closing_balance": 670456.83
+            },
+            {
+                "due_date": "28-05-2021",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 26788.09,
+                "interest_part": 8265.91,
+                "opening_balance": 670456.83,
+                "closing_balance": 643668.74
+            },
+            {
+                "due_date": "28-06-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 26853.84,
+                "interest_part": 8200.16,
+                "opening_balance": 643668.74,
+                "closing_balance": 616814.9
+            },
+            {
+                "due_date": "28-07-2021",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 27449.43,
+                "interest_part": 7604.57,
+                "opening_balance": 616814.9,
+                "closing_balance": 589365.47
+            },
+            {
+                "due_date": "28-08-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 27545.65,
+                "interest_part": 7508.35,
+                "opening_balance": 589365.47,
+                "closing_balance": 561819.82
+            },
+            {
+                "due_date": "28-09-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 27896.57,
+                "interest_part": 7157.43,
+                "opening_balance": 561819.82,
+                "closing_balance": 533923.25
+            },
+            {
+                "due_date": "28-10-2021",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 28471.38,
+                "interest_part": 6582.62,
+                "opening_balance": 533923.25,
+                "closing_balance": 505451.87
+            },
+            {
+                "due_date": "28-11-2021",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 28614.68,
+                "interest_part": 6439.32,
+                "opening_balance": 505451.87,
+                "closing_balance": 476837.19
+            },
+            {
+                "due_date": "28-12-2021",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 29175.19,
+                "interest_part": 5878.81,
+                "opening_balance": 476837.19,
+                "closing_balance": 447662.0
+            },
+            {
+                "due_date": "28-01-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 29350.91,
+                "interest_part": 5703.09,
+                "opening_balance": 447662.0,
+                "closing_balance": 418311.09
+            },
+            {
+                "due_date": "28-02-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 29724.83,
+                "interest_part": 5329.17,
+                "opening_balance": 418311.09,
+                "closing_balance": 388586.26
+            },
+            {
+                "due_date": "28-03-2022",
+                "interest_days": 28,
+                "repayment_amount": 35054.0,
+                "principal_part": 30582.6,
+                "interest_part": 4471.4,
+                "opening_balance": 388586.26,
+                "closing_balance": 358003.66
+            },
+            {
+                "due_date": "28-04-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 30493.13,
+                "interest_part": 4560.87,
+                "opening_balance": 358003.66,
+                "closing_balance": 327510.53
+            },
+            {
+                "due_date": "28-05-2022",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 31016.2,
+                "interest_part": 4037.8,
+                "opening_balance": 327510.53,
+                "closing_balance": 296494.33
+            },
+            {
+                "due_date": "28-06-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 31276.74,
+                "interest_part": 3777.26,
+                "opening_balance": 296494.33,
+                "closing_balance": 265217.59
+            },
+            {
+                "due_date": "28-07-2022",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 31784.19,
+                "interest_part": 3269.81,
+                "opening_balance": 265217.59,
+                "closing_balance": 233433.4
+            },
+            {
+                "due_date": "28-08-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 32080.12,
+                "interest_part": 2973.88,
+                "opening_balance": 233433.4,
+                "closing_balance": 201353.28
+            },
+            {
+                "due_date": "28-09-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 32488.81,
+                "interest_part": 2565.19,
+                "opening_balance": 201353.28,
+                "closing_balance": 168864.47
+            },
+            {
+                "due_date": "28-10-2022",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 32972.11,
+                "interest_part": 2081.89,
+                "opening_balance": 168864.47,
+                "closing_balance": 135892.36
+            },
+            {
+                "due_date": "28-11-2022",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 33322.77,
+                "interest_part": 1731.23,
+                "opening_balance": 135892.36,
+                "closing_balance": 102569.59
+            },
+            {
+                "due_date": "28-12-2022",
+                "interest_days": 30,
+                "repayment_amount": 35054.0,
+                "principal_part": 33789.44,
+                "interest_part": 1264.56,
+                "opening_balance": 102569.59,
+                "closing_balance": 68780.15
+            },
+            {
+                "due_date": "28-01-2023",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 34177.76,
+                "interest_part": 876.24,
+                "opening_balance": 68780.15,
+                "closing_balance": 34602.39
+            },
+            {
+                "due_date": "28-02-2023",
+                "interest_days": 31,
+                "repayment_amount": 35054.0,
+                "principal_part": 34602.39,
+                "interest_part": 451.61,
+                "opening_balance": 34602.39,
+                "closing_balance": 0
+            }
+        ]
+    }
+}

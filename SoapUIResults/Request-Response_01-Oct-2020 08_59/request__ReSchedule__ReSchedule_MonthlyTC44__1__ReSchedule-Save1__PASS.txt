@@ -1,0 +1,9 @@
+{
+    "reschedule_date": "16-02-2016",
+    "id": "ba3a54ed-7d60-4d43-a79d-575fcfd57bb4",
+    "reschedule_type": "interest",
+    "reschedule_data": 20,
+    "auth_status": "pending",
+    "maker_by" : "system",
+    "maker_date" : "16-02-2016"
+}

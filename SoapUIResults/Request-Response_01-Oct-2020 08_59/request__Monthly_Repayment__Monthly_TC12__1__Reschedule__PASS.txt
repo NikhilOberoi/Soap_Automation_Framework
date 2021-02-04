@@ -1,0 +1,18 @@
+{
+    "interest_rate": 15,
+    "loan_amount": 1000000,
+    "disbursal_date": {
+        "day": "31",
+        "month": "01",
+        "year": "2020"
+    },
+    "emi_date": {
+        "day": "28"
+    },
+    "tenure": 36,
+    "pre_emi": "N",
+     "pre_emi_days_applicable":30,
+    "days_calculation": "365",
+    "frequency": "monthly",
+    "repayment_type": "equated_installment"
+}

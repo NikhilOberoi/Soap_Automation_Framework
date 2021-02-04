@@ -1,0 +1,120 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+        "reschedule_mapping": [
+            {
+                "id": 2734,
+                "original_schedule_id": "a9247e4d-b233-4357-af82-37ce1b58ded9",
+                "reschedule_id": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                "maker_remarks": null,
+                "maker_by": "system",
+                "maker_date": "2016-02-16",
+                "auth_remarks": "NA",
+                "auth_by": "System",
+                "auth_date": "2016-02-16",
+                "auth_status": "approved",
+                "created_at": "2020-10-01T03:34:46.953302Z"
+            }
+        ],
+        "reschedule": [
+            {
+                "id": 2723,
+                "schedule_uuid": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                "date": "2016-02-16",
+                "type": "interest",
+                "data": 20.0,
+                "capitalize_charge": false,
+                "charge_amount": null,
+                "created_at": "2020-10-01T03:34:46.956439Z"
+            }
+        ],
+        "config_logs_params_preemi": [
+            {
+                "id": 4766,
+                "uuid": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                "config_id": 1,
+                "log_id": 5257,
+                "ref_id": 2723,
+                "ref_table_name": "reschedule",
+                "pre_emi_id": null,
+                "accrual": null,
+                "created_at": "2020-10-01T03:34:46.966067Z"
+            }
+        ],
+        "temp_table": [
+            {
+                "id": 7081,
+                "temp_table_id": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                "table_ref_key": null,
+                "table_ref_value": null,
+                "table_model": "RescheduleMapping",
+                "new_data": {
+                    "reschedule_id": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                    "original_schedule_id": "a9247e4d-b233-4357-af82-37ce1b58ded9"
+                },
+                "bulk_data": false,
+                "maker_by": "system",
+                "maker_remarks": null,
+                "maker_date": "2016-02-16",
+                "maker_sysdate": "2020-10-01",
+                "auth_by": "System",
+                "auth_remarks": "NA",
+                "auth_date": "2016-02-16",
+                "auth_sysdate": "2020-10-01",
+                "auth_status": "approved"
+            },
+            {
+                "id": 7082,
+                "temp_table_id": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                "table_ref_key": null,
+                "table_ref_value": null,
+                "table_model": "Reschedule",
+                "new_data": {
+                    "data": 20,
+                    "date": "2016-02-16",
+                    "type": "interest",
+                    "charge_amount": null,
+                    "schedule_uuid": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                    "capitalize_charge": false
+                },
+                "bulk_data": false,
+                "maker_by": "system",
+                "maker_remarks": null,
+                "maker_date": "2016-02-16",
+                "maker_sysdate": "2020-10-01",
+                "auth_by": "System",
+                "auth_remarks": "NA",
+                "auth_date": "2016-02-16",
+                "auth_sysdate": "2020-10-01",
+                "auth_status": "approved"
+            },
+            {
+                "id": 7083,
+                "temp_table_id": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                "table_ref_key": null,
+                "table_ref_value": null,
+                "table_model": "ConfigLogsParamsPreemi",
+                "new_data": {
+                    "log": 5257,
+                    "uuid": "7d443888-9087-4dd6-8160-bbdec758a9fa",
+                    "config": 1,
+                    "ref_id": 2723,
+                    "accrual": null,
+                    "pre_emi": null,
+                    "ref_table_name": "reschedule"
+                },
+                "bulk_data": false,
+                "maker_by": "system",
+                "maker_remarks": null,
+                "maker_date": "2016-02-16",
+                "maker_sysdate": "2020-10-01",
+                "auth_by": "System",
+                "auth_remarks": "NA",
+                "auth_date": "2016-02-16",
+                "auth_sysdate": "2020-10-01",
+                "auth_status": "approved"
+            }
+        ]
+    }
+}

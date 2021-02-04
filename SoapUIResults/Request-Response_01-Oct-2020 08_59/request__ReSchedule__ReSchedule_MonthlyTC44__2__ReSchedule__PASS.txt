@@ -1,0 +1,9 @@
+{
+    "reschedule_date": "16-05-2015",
+    "id": "a9247e4d-b233-4357-af82-37ce1b58ded9",
+    "reschedule_type": "part_payment",
+    "reschedule_data": 5600000,
+    "auth_status": "pending",
+    "maker_by" : "system",
+    "maker_date" : "16-05-2015"
+}

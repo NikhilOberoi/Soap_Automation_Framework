@@ -1,0 +1,19 @@
+------------- REQUEST DATA ---------------
+
+No Request Found. Check below error details
+
+------------- RESPONSE DATA ---------------
+
+No Response Found. Check below error details
+
+------------- REQUEST DATA ---------------
+
+java.lang.AssertionError: 
+
+
+Failed at "repayment_amount" on iteration number: "9" out of "36" iterations, 
+
+EXPECTED value is: 34074133 and 
+ACTUAL value is: 34074134
+
+. Expression: repayment_amount_Exp.toString().contains(repayment_amount.toString())error at line: 131

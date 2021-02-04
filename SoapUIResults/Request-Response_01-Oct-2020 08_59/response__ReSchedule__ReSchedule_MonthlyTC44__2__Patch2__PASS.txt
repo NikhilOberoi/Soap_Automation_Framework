@@ -1,0 +1,120 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+        "reschedule_mapping": [
+            {
+                "id": 2735,
+                "original_schedule_id": "a9247e4d-b233-4357-af82-37ce1b58ded9",
+                "reschedule_id": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                "maker_remarks": null,
+                "maker_by": "system",
+                "maker_date": "2017-01-01",
+                "auth_remarks": "NA",
+                "auth_by": "System",
+                "auth_date": "2017-01-01",
+                "auth_status": "approved",
+                "created_at": "2020-10-01T03:34:53.350815Z"
+            }
+        ],
+        "reschedule": [
+            {
+                "id": 2724,
+                "schedule_uuid": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                "date": "2017-01-01",
+                "type": "part_payment",
+                "data": 5600000.0,
+                "capitalize_charge": false,
+                "charge_amount": null,
+                "created_at": "2020-10-01T03:34:53.353935Z"
+            }
+        ],
+        "config_logs_params_preemi": [
+            {
+                "id": 4767,
+                "uuid": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                "config_id": 1,
+                "log_id": 5258,
+                "ref_id": 2724,
+                "ref_table_name": "reschedule",
+                "pre_emi_id": null,
+                "accrual": null,
+                "created_at": "2020-10-01T03:34:53.363674Z"
+            }
+        ],
+        "temp_table": [
+            {
+                "id": 7086,
+                "temp_table_id": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                "table_ref_key": null,
+                "table_ref_value": null,
+                "table_model": "ConfigLogsParamsPreemi",
+                "new_data": {
+                    "log": 5258,
+                    "uuid": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                    "config": 1,
+                    "ref_id": 2724,
+                    "accrual": null,
+                    "pre_emi": null,
+                    "ref_table_name": "reschedule"
+                },
+                "bulk_data": false,
+                "maker_by": "system",
+                "maker_remarks": null,
+                "maker_date": "2017-01-01",
+                "maker_sysdate": "2020-10-01",
+                "auth_by": "System",
+                "auth_remarks": "NA",
+                "auth_date": "2017-01-01",
+                "auth_sysdate": "2020-10-01",
+                "auth_status": "approved"
+            },
+            {
+                "id": 7084,
+                "temp_table_id": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                "table_ref_key": null,
+                "table_ref_value": null,
+                "table_model": "RescheduleMapping",
+                "new_data": {
+                    "reschedule_id": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                    "original_schedule_id": "a9247e4d-b233-4357-af82-37ce1b58ded9"
+                },
+                "bulk_data": false,
+                "maker_by": "system",
+                "maker_remarks": null,
+                "maker_date": "2017-01-01",
+                "maker_sysdate": "2020-10-01",
+                "auth_by": "System",
+                "auth_remarks": "NA",
+                "auth_date": "2017-01-01",
+                "auth_sysdate": "2020-10-01",
+                "auth_status": "approved"
+            },
+            {
+                "id": 7085,
+                "temp_table_id": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                "table_ref_key": null,
+                "table_ref_value": null,
+                "table_model": "Reschedule",
+                "new_data": {
+                    "data": 5600000,
+                    "date": "2017-01-01",
+                    "type": "part_payment",
+                    "charge_amount": null,
+                    "schedule_uuid": "f429c643-e86f-4e97-b5bc-c1c7adfcfc3b",
+                    "capitalize_charge": false
+                },
+                "bulk_data": false,
+                "maker_by": "system",
+                "maker_remarks": null,
+                "maker_date": "2017-01-01",
+                "maker_sysdate": "2020-10-01",
+                "auth_by": "System",
+                "auth_remarks": "NA",
+                "auth_date": "2017-01-01",
+                "auth_sysdate": "2020-10-01",
+                "auth_status": "approved"
+            }
+        ]
+    }
+}
